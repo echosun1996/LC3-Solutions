@@ -13,6 +13,6 @@ These solutions are intended for educational purposes.
 You are encouraged to understand and adapt the code rather than simply copy and paste it.  
 
 ## Acknowledge
-Inspired by @dxrcy.  
+Inspired by [@dxrcy](https://github.com/dxrcy/lc3-labs).  
 This repo leans more towards helping beginners, with plenty of friendly notes and step-by-step comments to make things easier and more fun!   
 Mistakes and oversights are inevitable, so feel free to submit corrections! 😊
